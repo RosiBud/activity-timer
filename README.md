@@ -1,7 +1,4 @@
-# Looking for new maintainer
-Activity timer has been a passion project of mine for a number of years. However, as of late i have had little to no motivation moving the project forward. I've simply had too much happening privately to progressively make Activity timer better.
-
-For this reason I'm looking for a new maintainer. If you're open to continue maintaining Activity timer, and developer new functionality - please reach out.
+This is a fork of the [activity-timer](https://github.com/danniehansen/activity-timer) Trello Power-Up.
 
 # Activity timer
 
